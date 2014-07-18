@@ -3,3 +3,4 @@ body { margin: 0; padding: 0; }
 h1 { text-transform: uppercase; border-top: 1px dashed #000; border-bottom: 1px dashed #000; }
 h1, p { font: 14px/24px Courier, sans-serif; }
 p { max-width: 600px; }
+a { background-color: #fadf40; color: #000; text-decoration: none;}
