@@ -1,6 +1,6 @@
 body { margin: 0; padding: 0; }
 .container { width: 960px; margin: 0 auto; padding: 50px 20px;}
-h1 { text-transform: uppercase; border-top: 1px dashed #000; border-bottom: 1px dashed #000; }
-h1, p { font: 14px/24px Courier, sans-serif; }
+h1, h2 { text-transform: uppercase; border-top: 1px dashed #000; border-bottom: 1px dashed #000; }
+h1, h2, p { font: 14px/24px Courier, sans-serif; }
 p { max-width: 600px; }
 a { background-color: #fadf40; color: #000; text-decoration: none;}
